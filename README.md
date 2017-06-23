@@ -6,7 +6,7 @@ This script will synchronize folders with RAW images to their corresponding JPEG
 
 ## Running it
 
-Create a Dock-Icon on which you can drop your folders:
+Create a Dock-Icon on which you can drop your folders (if you just click it a file dialog will open):
 
 1. Build linked "trash" utility via "make"
 2. Get platypus (http://www.sveinbjorn.org/platypus), a tool to create MacOS applications out of bundled shellscripts:
