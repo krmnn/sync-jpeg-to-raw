@@ -1,4 +1,4 @@
-# sync-jpeg-to-raf
+# sync-jpeg-to-raw
 2017 Thomas Karmann <thomas@krmnn.de>
 
 ## Description
