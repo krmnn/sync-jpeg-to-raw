@@ -1,0 +1,3 @@
+[submodule "trash"]
+       path = trash
+       url = https://github.com/ali-rantakari/trash
